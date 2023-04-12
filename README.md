@@ -1,4 +1,8 @@
 # Am I the A-hole? A moral classification 
+
+r/AmItheAsshole is one of the most popular communities on Reddit. People use it to post their personal conundrums and moral conflicts and ask for judgements from strangers. The verdicts include NTA (Not the Asshole), YTA (You're the Asshole), ESH (Everyoe sucks here), and NAH (No Assholes here). This is a neat setup for a classification problem.
+Using filtered data from r/AITAFiltered, I built a classifer to determine if you're the asshole in your story or not. 
+
 ## Getting data through Reddit API
 <details><summary><u>Reddit Scrapper</u></summary>
 
